@@ -1,0 +1,5 @@
+.idea/
+db_data/
+website/*
+!website/wp-content/
+!website/wp-content/**
